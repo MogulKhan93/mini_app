@@ -1,4 +1,4 @@
-import ffmpeg
+import ffmpeg  # pip install ffmpeg-python and download ffmpeg to your PC
 import os
 
 
